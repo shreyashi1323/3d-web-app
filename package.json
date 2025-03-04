@@ -1,0 +1,19 @@
+{
+  "name": "project_threejs_ai",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <br />\r     <a href=\"https://youtu.be/ZqEa8fTxypQ?feature=shared\" target=\"_blank\">\r       <img src=\"https://github.com/adrianhajdin/project_threejs_ai/assets/151519281/a7ad05c5-28a5-423f-b6ac-c98f8a5c428a\" alt=\"Project Banner\">\r     </a>\r   <br />",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
